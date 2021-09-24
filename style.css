@@ -1,27 +1,25 @@
 body{
     background-image: url("403325.jpg");
-    border: 3px dashed orange;
-
 }
 
 .Perkenalan {
-    background-color: black;   
+    background-color: rgba(0,0,0,0.5);   
     padding: 10px 20px 10px 20px;   
     margin: 30px 30px 30px 30px;  
-    border: 2px solid orange;
-    color: orange;
+    border: 2px solid white;
+    color:white;
     font-family: monospace;
     font-size: large;
     line-height: 1.6;
-    font-weight: bold;  
+    font-weight: bold;
 }
 
 div.Nama {
-    background-color: black;   
+    background-color: rgba(0,0,0,0.5);   
     padding: 10px 20px 10px 20px;   
     margin: 30px 30px 30px 30px;  
-    border: 2px solid orange;
-    color:orange;   
+    border: 2px solid white;
+    color:white;
     font-family: monospace;
     font-size: large;
     line-height: 1.6;
@@ -29,11 +27,11 @@ div.Nama {
 }
 
 div.SocialMedia {
-    background-color: black;   
+    background-color: rgba(0,0,0,0.5);   
     padding: 10px 20px 10px 20px;   
     margin: 30px 30px 30px 30px;  
-    border: 2px solid orange;
-    color:orange;
+    border: 2px solid white;
+    color:white;
     font-family: monospace;
     font-size: large;
     line-height: 1.6;
@@ -41,11 +39,11 @@ div.SocialMedia {
 }
 
 div.Pendidikan {
-    background-color: black;   
+    background-color: rgba(0,0,0,0.5);   
     padding: 10px 20px 10px 20px;   
     margin: 30px 30px 30px 30px;  
-    border: 2px solid orange;
-    color:orange;
+    border: 2px solid white;
+    color:white;
     font-family: monospace;
     font-size: large;
     line-height: 1.6;
@@ -53,11 +51,11 @@ div.Pendidikan {
 }
 
 div.Pengalaman {
-    background-color: black;   
+    background-color: rgba(0,0,0,0.5);   
     padding: 10px 20px 10px 20px;   
     margin: 30px 30px 30px 30px;  
-    border: 2px solid orange;
-    color:orange;
+    border: 2px solid white;
+    color:white;
     font-family: monospace;
     font-size: large;
     line-height: 1.6;
@@ -65,11 +63,11 @@ div.Pengalaman {
 }
 
 div.Inspirasi {
-    background-color: black;   
+    background-color: rgba(0,0,0,0.5);   
     padding: 10px 20px 10px 20px;   
     margin: 30px 30px 30px 30px;  
-    border: 2px solid orange;
-    color:orange;
+    border: 2px solid white;
+    color:white;
     font-family: monospace;
     font-size: large;
     line-height: 1.6;
@@ -77,13 +75,13 @@ div.Inspirasi {
 }
 
 h1 {
-    border-bottom: 2px solid orange;
+    border-bottom: 2px solid white;
 }
 
 .foto {
-    border-top-left-radius: 50% 50%;
-    border-top-right-radius: 50% 50%;
-    border-bottom-right-radius: 50% 50%;
-    border-bottom-left-radius: 50% 50%;
-    border: 2px dashed orange;
+    border-top-left-radius: 75% 75%;
+    border-top-right-radius: 75% 75%;
+    border-bottom-right-radius: 75% 75%;
+    border-bottom-left-radius: 75% 75%;
+    border: 2px solid white;
   }
