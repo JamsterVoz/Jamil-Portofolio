@@ -1,0 +1,89 @@
+body{
+    background-image: url("403325.jpg");
+    border: 3px dashed orange;
+
+}
+
+.Perkenalan {
+    background-color: black;   
+    padding: 10px 20px 10px 20px;   
+    margin: 30px 30px 30px 30px;  
+    border: 2px solid orange;
+    color: orange;
+    font-family: monospace;
+    font-size: large;
+    line-height: 1.6;
+    font-weight: bold;  
+}
+
+div.Nama {
+    background-color: black;   
+    padding: 10px 20px 10px 20px;   
+    margin: 30px 30px 30px 30px;  
+    border: 2px solid orange;
+    color:orange;   
+    font-family: monospace;
+    font-size: large;
+    line-height: 1.6;
+    font-weight: bold;
+}
+
+div.SocialMedia {
+    background-color: black;   
+    padding: 10px 20px 10px 20px;   
+    margin: 30px 30px 30px 30px;  
+    border: 2px solid orange;
+    color:orange;
+    font-family: monospace;
+    font-size: large;
+    line-height: 1.6;
+    font-weight: bold;
+}
+
+div.Pendidikan {
+    background-color: black;   
+    padding: 10px 20px 10px 20px;   
+    margin: 30px 30px 30px 30px;  
+    border: 2px solid orange;
+    color:orange;
+    font-family: monospace;
+    font-size: large;
+    line-height: 1.6;
+    font-weight: bold;
+}
+
+div.Pengalaman {
+    background-color: black;   
+    padding: 10px 20px 10px 20px;   
+    margin: 30px 30px 30px 30px;  
+    border: 2px solid orange;
+    color:orange;
+    font-family: monospace;
+    font-size: large;
+    line-height: 1.6;
+    font-weight: bold;
+}
+
+div.Inspirasi {
+    background-color: black;   
+    padding: 10px 20px 10px 20px;   
+    margin: 30px 30px 30px 30px;  
+    border: 2px solid orange;
+    color:orange;
+    font-family: monospace;
+    font-size: large;
+    line-height: 1.6;
+    font-weight: bold;
+}
+
+h1 {
+    border-bottom: 2px solid orange;
+}
+
+.foto {
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    border: 2px dashed orange;
+  }
